@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  Random Forest Model           |  ML model to predict median house values in california            | [https://](https://github.com/MrDadzie/Random-Forest-Model.git)       |
-| 2 |  Mortgage Calculator             |  A program that allows users to calculate the monthly payment installment on their loans            |[ https://](https://github.com/MrDadzie/Mortgage-Calculator.git)       |
-| 3 |  MNIST project             |  ML to classify images into two groups             |[ https:// ](https://github.com/MrDadzie/MNIST-project.git)      |
+| 1 |  Random Forest Model           |  ML model to predict median house values in california            | https://github.com/MrDadzie/Random-Forest-Model.git       |
+| 2 |  Mortgage Calculator             |  A program that allows users to calculate the monthly payment installment on their loans            |https://github.com/MrDadzie/Mortgage-Calculator.git    |
+| 3 |  MNIST project             |  ML to classify images into two groups             |https://github.com/MrDadzie/MNIST-project.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
